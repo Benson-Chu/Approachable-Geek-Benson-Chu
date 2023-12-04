@@ -71,7 +71,7 @@
                             <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="leading" contentVerticalAlignment="top" buttonType="system" lineBreakMode="wordWrap" translatesAutoresizingMaskIntoConstraints="NO" id="IPf-qc-7jD">
                                 <rect key="frame" x="65" y="565" width="265" height="91"/>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
-                                <state key="normal" title="I dont want to go bcasue its dangerouse so I want to have a a lot of fun so I always t wanto to go there to be fun and enjoy">
+                                <state key="normal" title="Write a little bit about yourself. Do you like cahtting? Are you a smoker? Do you bring pets with you? Etc.">
                                     <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
